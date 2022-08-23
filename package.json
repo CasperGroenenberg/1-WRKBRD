@@ -10,7 +10,7 @@
     "pinia": "^2.0.0",
     "vue": "^3.2.20",
     "vue-draggable-next": "^2.1.1",
-    "vue-router": "^4.0.12"
+    "vue-router": "^4.1.4"
   },
   "devDependencies": {
     "@headlessui/vue": "^1.4.1",
